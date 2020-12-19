@@ -1,6 +1,8 @@
 # Stock-Market-BSE
 Sensex Stock Market prediction using LSTM.
 
-For downloading the latest BSE data
+Dont use this model for prediction in real time.
+Just for education Purpose of how to use LSTM
 
-https://finance.yahoo.com/quote/%5EBSESN/history?p=%5EBSESN
+
+
